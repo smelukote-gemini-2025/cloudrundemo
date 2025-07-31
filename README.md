@@ -36,3 +36,10 @@ After deployment, Cloud Run will provide a URL for your service. You can find th
 
     gcloud run services describe hello-world --platform managed --region us-west1 --format "value(status.url)"
 https://hello-world-h2hrdbqsxq-uw.a.run.app
+
+### screen shots ####
+
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
